@@ -1,0 +1,8 @@
+numpy
+pyzmq
+opencv-python
+pyserial
+pyrealsense2
+grpcio
+tyro
+

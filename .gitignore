@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local tool/cache files
+.codex
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Runtime outputs
+logs/
+*.log
+
+# Local experiment data
+data/*
+!data/.gitkeep
+recordings/
+episodes/
+outputs/
+tmp/
+
+# Binary artifacts
+*.pkl
+*.npy
+*.npz
+*.jpg
+*.jpeg
+*.png
+*.avi
+*.mp4
+
